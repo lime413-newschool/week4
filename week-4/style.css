@@ -2,10 +2,4 @@ body {
   background-color: rgb(255, 170, 213);
   min-height: 100vh;
   font-family: "Montserrat", sans-serif;
-  font-size: 200px;
-  font-weight: 900;
-  font-style: normal;
-  text-align: justify;
-  text-align-last: justify;
-  letter-spacing: -.1em;
 }
